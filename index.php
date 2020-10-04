@@ -13,6 +13,8 @@ and open the template in the editor.
         <?php
         function dicfuncion1() {
         }
+        function dicfuncion2() {
+        }
         ?>
     </body>
 </html>
