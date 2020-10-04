@@ -18,6 +18,7 @@ and open the template in the editor.
         function dicfuncion3() {
         }
         function dic_especial() {
+            echo "Daniel Indias Corral";
         }
         ?>
     </body>
