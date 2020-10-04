@@ -19,6 +19,8 @@ and open the template in the editor.
         }
         function dic_especial() {
             echo "Daniel Indias Corral";
+            echo "Victor Cobos";
+            echo "Oriol Lozano";
         }
         ?>
     </body>
