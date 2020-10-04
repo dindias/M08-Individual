@@ -15,6 +15,8 @@ and open the template in the editor.
         }
         function dicfuncion2() {
         }
+        function dicfuncion3() {
+        }
         ?>
     </body>
 </html>
